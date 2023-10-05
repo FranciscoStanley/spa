@@ -1,0 +1,23 @@
+
+
+html {
+    background-color: #072442;
+}
+.App {
+    margin: auto;
+    margin-top: 35px;
+    background: #072442;
+
+}
+
+.tilteText {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: xx-large;
+    color: #ffff;
+}
+
+.Search {
+    align-items: center;
+    color: #2a4ca8;
+}

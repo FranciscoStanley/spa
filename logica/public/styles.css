@@ -1,0 +1,31 @@
+body {
+    margin: 0 auto;
+    background: #ffff;
+}
+
+input::placeholder {
+    color: #ffff;
+}
+
+.fundoVermelho {
+    background: #740101;
+}
+
+.fundoVerde {
+    background: #487204;
+}
+
+.fundoVerde input {
+    box-shadow: #487204;
+
+}
+
+.fundoAzul {
+    background: #746bf7;
+}
+
+.txtAzul {
+    background: #3863ee;
+    color: #ffff;
+}
+
