@@ -8,6 +8,7 @@ SPA simples pra constatar habilidades
 - [BootStrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 - [React Bootstrap](https://react-bootstrap.netlify.app/docs/getting-started/introduction)
 - [ReactJs](https://legacy.reactjs.org/docs/getting-started.html)
+- [Axios](https://axios-http.com/ptbr/docs/intro)
 
 ## Funcionalidades
 - Pesquisar medicamentos (busca simples pelo nome)
