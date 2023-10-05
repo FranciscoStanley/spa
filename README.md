@@ -1,4 +1,4 @@
-# SPA CONSULTA MÉDICAMENTOS
+# SPA CONSULTA DE MÉDICAMENTOS
 
 ## Descrição do Projeto
 SPA simples pra constatar habilidades
