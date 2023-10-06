@@ -24,7 +24,7 @@ $ cd spa
 $ yarn ou npm install
 $ yarn run ou npm run start
 ```
-No navegador, acesse: http://localhost:3000 e conclua a instalação do WordPress. 
+No navegador, acesse: http://localhost:3000. 
 
 # API 
 - [API](https://bula.vercel.app/docs)
